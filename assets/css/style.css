@@ -6,23 +6,24 @@ body {
 
 body {
     background-image: url("../images/tropics.jpg");
-    font-family: 'Arial';
+    font-family: 'Georgia';
     min-height: 100vmin;
 }
 
 nav {
-    background-color: rgb(206, 238, 227);
+    background-color: rgb(197, 115, 16);
     padding: 20px;
     border-bottom: 5px solid white;
     text-align: center;
     font-size: 2em;
-    color: rgb(43, 117, 119);
+    color: #94eaee;
+    ;
 }
 
 main {
     margin: 30px 25%;
     padding: 50px;
-    background-color: rgb(206, 238, 227);
+    background-color: #94eaee;
     min-height: 50vh;
 }
 
